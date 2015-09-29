@@ -6,10 +6,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import roboguice.fragment.RoboFragment;
+
 /**
  * A placeholder fragment containing a simple view.
  */
-public class ConnectionActivityFragment extends Fragment {
+public class ConnectionActivityFragment extends RoboFragment {
 
     public ConnectionActivityFragment() {
     }

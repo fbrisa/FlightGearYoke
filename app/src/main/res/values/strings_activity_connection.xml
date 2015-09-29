@@ -1,0 +1,11 @@
+<resources>
+    <string name="title_activity_connection">Connection parameters</string>
+
+    <!-- Strings related to connection -->
+    <string name="prompt_ip">Ip address</string>
+    <string name="prompt_port">Port</string>
+    <string name="action_connect">Connect</string>
+    <string name="action_search">Search for FlighGear</string>
+
+    <string name="error_field_required">This field is required</string>
+</resources>

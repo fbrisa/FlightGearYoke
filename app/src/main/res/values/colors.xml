@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="flightblue" type="color">#FF4040FF</item>
+    <item name="fblue" type="color">#FF0000FF</item>
+    <item name="fdarkblue" type="color">#FF000080</item>
+
+    <item name="fprogressbackground" type="color">#FFD0D0D0</item>
+
+</resources>
