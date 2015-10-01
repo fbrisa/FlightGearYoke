@@ -50,7 +50,8 @@
             android:layout_marginTop="16dp"
             android:text="@string/action_connect"
             android:textStyle="bold"
-            android:onClick="attemptConnect"/>
+            android:enabled="true"
+            android:clickable="true"/>
 
 
     </LinearLayout>
@@ -79,7 +80,8 @@
             android:layout_marginTop="16dp"
             android:text="@string/action_search"
             android:textStyle="bold"
-            android:onClick="search"/>
+            android:clickable="true"
+            android:enabled="true"/>
 
         <ProgressBar
             style="?android:attr/progressBarStyleHorizontal"
